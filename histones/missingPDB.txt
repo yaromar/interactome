@@ -1,9 +1,8 @@
 MISSING FROM ALEX FILES:
 2jmj
-2rnw
+2rnw -- homo
 2rnx
-2rny
-3c9k
+2rny -- homo
 
 
 WRONG ALIGNMENTS IN ALEX FILES?:
