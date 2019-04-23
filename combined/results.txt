@@ -111,7 +111,8 @@
 
 
 
-Possibly interesting (PTM state affecting domains interacting with histone):
+5) Possibly interesting (PTM state affecting domains interacting with histone):
+
 Chromo domain-containing protein 1	NA	H3	N-TRIMETHYLLYSINE                         10
 Chromo domain-containing protein 1	CD_Chp1_like	H3	NA
 Chromo domain-containing protein 1	NA	H3	NA
