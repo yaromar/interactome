@@ -33,7 +33,7 @@
 
 4) The most connected nodes in the first neighbor graph (https://github.com/yaromar/interactome/blob/master/combined/interactome_analysis.tsv):
 	*note: these are partial results, as the analysis is still running
-	*note2: there are many other parameters besides node "degree" that are in the GitHub file which I need to read about
+	*note2: there are many other parameters besides node "degree" that are in the GitHub file that can be used
 	Humans:
 		HLA class I histocompatibility antigen, A-2 alpha chain
 		Beta-2-microglobulin
