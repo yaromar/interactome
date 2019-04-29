@@ -1,0 +1,27 @@
+shared_name	shared_interaction	name	interaction	pdb	NA	number_of_underlying_edges	edge_betweenness
+Bromodomain testis-specific protein (interacts with) H3	interacts with	Bromodomain testis-specific protein (interacts with) H3	interacts with	2wp1	10	272.0
+Bromodomain testis-specific protein (interacts with) H4	interacts with	Bromodomain testis-specific protein (interacts with) H4	interacts with	2wp2	10	252.0
+WD repeat-containing protein 5 (interacts with) H3	interacts with	WD repeat-containing protein 5 (interacts with) H3	interacts with	2xl3	10	92.0
+V(D)J recombination-activating protein 2 (interacts with) H3	interacts with	V(D)J recombination-activating protein 2 (interacts with) H3	interacts with	2v87	84	92.0
+Pygopus homolog 1 (interacts with) H3	interacts with	Pygopus homolog 1 (interacts with) H3	interacts with	2yyr	4	48.0
+Inhibitor of growth protein 2 (interacts with) H3	interacts with	Inhibitor of growth protein 2 (interacts with) H3	interacts with	2g6q	5	48.0
+V(D)J recombination-activating protein 1 (interacts with) V(D)J recombination-activating protein 2	interacts with	V(D)J recombination-activating protein 1 (interacts with) V(D)J recombination-activating protein 2	interacts with	6cim	10	48.0
+Histone-lysine N-methyltransferase KMT5C (interacts with) H4	interacts with	Histone-lysine N-methyltransferase KMT5C (interacts with) H4	interacts with	4au7	16	48.0
+Origin recognition complex subunit 1 (interacts with) H4	interacts with	Origin recognition complex subunit 1 (interacts with) H4	interacts with	4dow	10	48.0
+PHD finger protein 1 (interacts with) H3	interacts with	PHD finger protein 1 (interacts with) H3	interacts with	5xfq	13	48.0
+Chromobox protein homolog 7 (interacts with) H3	interacts with	Chromobox protein homolog 7 (interacts with) H3	interacts with	4x3k	24	48.0
+Histone-lysine N-methyltransferase PRDM9 (interacts with) H3	interacts with	Histone-lysine N-methyltransferase PRDM9 (interacts with) H3	interacts with	4c1q	10	48.0
+Lysine-specific demethylase 6B (interacts with) H3	interacts with	Lysine-specific demethylase 6B (interacts with) H3	interacts with	4ezh	17	48.0
+Chromobox protein homolog 1 (interacts with) H3	interacts with	Chromobox protein homolog 1 (interacts with) H3	interacts with	1guw	16	48.0
+MORC family CW-type zinc finger protein 3 (interacts with) H3	interacts with	MORC family CW-type zinc finger protein 3 (interacts with) H3	interacts with	5ix2	32	48.0
+Lysine-specific demethylase 2A (interacts with) H3	interacts with	Lysine-specific demethylase 2A (interacts with) H3	interacts with	4qxh	68	48.0
+Bromodomain-containing protein 4 (interacts with) H3	interacts with	Bromodomain-containing protein 4 (interacts with) H3	interacts with	3muk	12	48.0
+Zinc finger MYND domain-containing protein 11 (interacts with) H3	interacts with	Zinc finger MYND domain-containing protein 11 (interacts with) H3	interacts with	4n4i	44	48.0
+Chromobox protein homolog 5 (interacts with) H3	interacts with	Chromobox protein homolog 5 (interacts with) H3	interacts with	2rvn	17	48.0
+WD repeat-containing protein 5 (interacts with) Retinoblastoma-binding protein 5	interacts with	WD repeat-containing protein 5 (interacts with) Retinoblastoma-binding protein 5	interacts with	2xl3	2	48.0
+1A9D7 L chain (interacts with) H4	interacts with	1A9D7 L chain (interacts with) H4	interacts with	5ye4	6	46.0
+1A9D7 VH CH1 chain (interacts with) H4	interacts with	1A9D7 VH CH1 chain (interacts with) H4	interacts with	5ye4	8	46.0
+2A7D9 L chain (interacts with) H4	interacts with	2A7D9 L chain (interacts with) H4	interacts with	5ye3	5	46.0
+2A7D9 VH CH1 chain (interacts with) H4	interacts with	2A7D9 VH CH1 chain (interacts with) H4	interacts with	5ye3	14	46.0
+1A9D7 VH CH1 chain (interacts with) 1A9D7 L chain	interacts with	1A9D7 VH CH1 chain (interacts with) 1A9D7 L chain	interacts with	5ye4	1	2.0
+2A7D9 VH CH1 chain (interacts with) 2A7D9 L chain	interacts with	2A7D9 VH CH1 chain (interacts with) 2A7D9 L chain	interacts with	5ye3	1	2.0
