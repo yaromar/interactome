@@ -847,3 +847,45 @@ Q9Y4L1;Q9Y4L1-2	HUMAN Hypoxia up-regulated protein 1	P11021	HUMAN 78 kDa glucose
 Q9Y6N6	HUMAN Laminin subunit gamma-3	Q14839	HUMAN Chromodomain-helicase-DNA-binding protein 4	NA	Q9Y6N6	NA	Q9Y6N6
 Q9Y6Q1	HUMAN Calpain-6	P19338	HUMAN Nucleolin	NA	Q9Y6Q1	NA	Q9Y6Q1
 Q9Y6V0;Q9Y6V0-2;Q9Y6V0-5;Q9Y6V0-6	HUMAN Protein piccolo	P05204	HUMAN Non-histone chromosomal protein HMG-17	NA	Q9Y6V0;Q9Y6V0-2;Q9Y6V0-5;Q9Y6V0-6	NA	Q9Y6V0;Q9Y6V0-2;Q9Y6V0-5;Q9Y6V0-6
+P68431	H3	O14727;O14727-2;O14727-3;O14727-4;O14727-5	Apoptotic protease-activating factor 1	27	H3	28	H3_28
+P16403	H1	O43295;O43295-2	SLIT-ROBO Rho GTPase-activating protein 3	128	H1	159	H1_159
+P06899	H2B	O75054;O75054-2	Immunoglobulin superfamily member 3	4	H2B	6	H2B_6
+P62805	H4	O75054;O75054-2	Immunoglobulin superfamily member 3	20	H4	21	H4_21
+P10412	H1	P12036	Neurofilament heavy polypeptide 	74	H1	92	H1_92
+P10412	H1	P23560;P23560-2;P23560-3;P23560-4;P23560-5	Brain-derived neurotrophic factor 	74	H1	92	H1_92
+P06899	H2B	P23560;P23560-2;P23560-3;P23560-4;P23560-5	Brain-derived neurotrophic factor 	120	H2B	122	H2B_122
+Q02539	H1	P35499	Sodium channel protein type 4 subunit alpha	112	H1	130	H1_130
+P10412	H1	P35499	Sodium channel protein type 4 subunit alpha	116	H1	147	H1_147
+Q02539	H1	P35499	Sodium channel protein type 4 subunit alpha	119	H1	147	H1_147
+P10412	H1	P35626	Beta-adrenergic receptor kinase 2	109	H1	140	H1_140
+P06899	H2B	P43155;P43155-2;P43155-3	Carnitine O-acetyltransferase 	108	H2B	110	H2B_110
+O43295;O43295-2;O43295-3	Protein S100-A10	P60903	SLIT-ROBO Rho GTPase-activating protein 3	NA	O43295;O43295-2;O43295-3	NA	O43295;O43295-2;O43295-3
+O75054;O75054-2	GTP-binding nuclear protein Ran	P62826	Immunoglobulin superfamily member 3	NA	O75054;O75054-2	NA	O75054;O75054-2
+P10412	H1	P83731	60S ribosomal protein L24	45	H1	61	H1_61
+O43824	60S ribosomal protein L24	P83731	Putative GTP-binding protein 6	NA	O43824	NA	O43824
+P06899	H2B	P98171	Rho GTPase-activating protein 4	116	H2B	118	H2B_118
+O75054;O75054-2	Vigilin	Q00341;Q00341-2	Immunoglobulin superfamily member 3	NA	O75054;O75054-2	NA	O75054;O75054-2
+P35499	DnaJ homolog subfamily C member 3	Q13217	Sodium channel protein type 4 subunit alpha	NA	P35499	NA	P35499
+P35499	DnaJ homolog subfamily C member 3	Q13217	Sodium channel protein type 4 subunit alpha	NA	P35499	NA	P35499
+P68431	H3	Q68DD2;Q68DD2-2;Q68DD2-3	Cytosolic phospholipase A2 zeta	14	H3	15	H3_15
+P10412	H1	Q68DD2;Q68DD2-2;Q68DD2-3	Cytosolic phospholipase A2 zeta	45	H1	61	H1_61
+P10412	H1	Q68DD2;Q68DD2-2;Q68DD2-3	Cytosolic phospholipase A2 zeta	51	H1	67	H1_67
+Q02539	H1	Q68DD2;Q68DD2-2;Q68DD2-3	Cytosolic phospholipase A2 zeta	87	H1	103	H1_103
+P06899	H2B	Q68DD2;Q68DD2-2;Q68DD2-3	Cytosolic phospholipase A2 zeta	120	H2B	122	H2B_122
+P33778	H2B	Q68DD2;Q68DD2-2;Q68DD2-3	Cytosolic phospholipase A2 zeta	120	H2B	122	H2B_122
+P07305	H1	Q7Z4H7;Q7Z4H7-2;Q7Z4H7-3	HAUS augmin-like complex subunit 6	10	H1	14	H1_14
+P10412	H1	Q7Z6B0;Q7Z6B0-2;Q7Z6B0-3	Coiled-coil domain-containing protein 91	45	H1	61	H1_61
+P10412	H1	Q8N4N8	Kinesin-like protein KIF2B	51	H1	67	H1_67
+P10412	H1	Q8NEN9	PDZ domain-containing protein 8	45	H1	61	H1_61
+P10412	H1	Q8NEN9	PDZ domain-containing protein 8	89	H1	108	H1_108
+P10412	H1	Q8NEN9	PDZ domain-containing protein 8	96	H1	118	H1_118
+P10412	H1	Q8NEN9	PDZ domain-containing protein 8	105	H1	127	H1_127
+P16403	H1	Q8NEN9	PDZ domain-containing protein 8	126	H1	157	H1_157
+P16403	H1	Q8NEN9	PDZ domain-containing protein 8	129	H1	160	H1_160
+P10412	H1	Q8NEN9	PDZ domain-containing protein 8	159	H1	191	H1_191
+P16403	H1	Q8NEN9	PDZ domain-containing protein 8	190	H1	263	H1_263
+P10412	H1	Q8WYK1	Contactin-associated protein-like 5	74	H1	92	H1_92
+P10412	H1	Q9BQI3;Q9BQI3-2	Eukaryotic translation initiation factor 2-alpha kinase 1	89	H1	108	H1_108
+P16403	H1	Q9H892;Q9H892-2	Tetratricopeptide repeat protein 12	158	H1	190	H1_190
+P06899	H2B	Q9P2M1;Q9P2M1-2	LRP2-binding protein	4	H2B	6	H2B_6
+P06899	H2B	Q9Y4D8;Q9Y4D8-2;Q9Y4D8-4	Probable E3 ubiquitin-protein ligase HECTD4	85	H2B	87	H2B_87
