@@ -1,0 +1,61 @@
+histone_uniprot	histone	partner_uniprot	parnter	domain	residue	residue_aligned
+P10412	H1	P05204	HUMAN Non-histone chromosomal protein HMG-17	HMG14_17	20	24
+P10412	H1	P05204	HUMAN Non-histone chromosomal protein HMG-17	HMG14_17	25	29
+P10412	H1	Q68DD2;Q68DD2-2;Q68DD2-3	HUMAN Cytosolic phospholipase A2 zeta	cPLA2_Grp-IVB-IVD-IVE-IVF	45	51
+P10412	H1	Q68DE3	HUMAN Basic helix-loop-helix domain-containing protein USF3	HLH	45	51
+P10412	H1	Q9NQZ2	HUMAN Something about silencing protein 10	Sas10	45	51
+P10412	H1	Q9UKX7;Q9UKX7-2	HUMAN Nuclear pore complex protein Nup50	RanBD_NUP50	45	51
+P10412	H1	Q68DD2;Q68DD2-2;Q68DD2-3	HUMAN Cytosolic phospholipase A2 zeta	cPLA2_Grp-IVB-IVD-IVE-IVF	51	57
+P10412	H1	Q99626	HUMAN Homeobox protein CDX-2	Homeobox	51	57
+P10412	H1	P23560;P23560-2;P23560-3;P23560-4;P23560-5	HUMAN Brain-derived neurotrophic factor	NGF	74	92
+P10412	H1	P33992	HUMAN DNA replication licensing factor MCM5	MCM	74	92
+P10412	H1	Q13426;Q13426-2;Q13426-3	HUMAN DNA repair protein XRCC4	XRCC4	74	92
+P10412	H1	Q8WYK1	HUMAN Contactin-associated protein-like 5	FA58C	74	92
+P10412	H1	Q9H6T0;Q9H6T0-2	HUMAN Epithelial splicing regulatory protein 2	RRM3_ESRP1_ESRP2	74	92
+P10412	H1	P62826	HUMAN GTP-binding nuclear protein Ran	RAN	89	108
+P10412	H1	Q9BQI3;Q9BQI3-2	HUMAN Eukaryotic translation initiation factor 2-alpha kinase 1	STKc_EIF2AK1_HRI	89	108
+P10412	H1	Q9NQZ2	HUMAN Something about silencing protein 10	Sas10	89	108
+P10412	H1	Q9UHB7;Q9UHB7-2	HUMAN AF4/FMR2 family member 4	AF-4	105	127
+P10412	H1	P35626	HUMAN Beta-adrenergic receptor kinase 2	PH_GRK2_subgroup	109	140
+P10412	H1	P05204	HUMAN Non-histone chromosomal protein HMG-17	HMG14_17	116	147
+P10412	H1	P35499	HUMAN Sodium channel protein type 4 subunit alpha	Ion_trans	116	147
+P10412	H1	P35499	HUMAN Sodium channel protein type 4 subunit alpha	Na_channel_gate	116	147
+P10412	H1	Q92576;Q92576-2	HUMAN PHD finger protein 3	TFS2M	116	147
+P10412	H1	Q99626	HUMAN Homeobox protein CDX-2	Homeobox	116	147
+P10412	H1	Q9NQZ2	HUMAN Something about silencing protein 10	Sas10	116	147
+P10412	H1	Q9NQZ2	HUMAN Something about silencing protein 10	Sas10	147	178
+P16402	H1	P05204	HUMAN Non-histone chromosomal protein HMG-17	HMG14_17	218	304
+P16403	H1	Q9NQZ2	HUMAN Something about silencing protein 10	Sas10	116	147
+P16403	H1	P35269	HUMAN General transcription factor IIF subunit 1	TFIIF_alpha	129	160
+P16403	H1	Q92576;Q92576-2	HUMAN PHD finger protein 3	TFS2M	147	178
+P16403	H1	Q9NQZ2	HUMAN Something about silencing protein 10	Sas10	159	191
+P62805	H4	P05204	HUMAN Non-histone chromosomal protein HMG-17	HMG14_17	8	9
+P62805	H4	P05204	HUMAN Non-histone chromosomal protein HMG-17	HMG14_17	12	13
+P62805	H4	P05204	HUMAN Non-histone chromosomal protein HMG-17	HMG14_17	16	17
+P62805	H4	P62826	HUMAN GTP-binding nuclear protein Ran	RAN	16	17
+P62805	H4	Q68DE3	HUMAN Basic helix-loop-helix domain-containing protein USF3	HLH	20	21
+P62805	H4	Q68DE3	HUMAN Basic helix-loop-helix domain-containing protein USF3	HLH	31	32
+P62805	H4	Q68DE3	HUMAN Basic helix-loop-helix domain-containing protein USF3	HLH	77	78
+P68431	H3	P05204	HUMAN Non-histone chromosomal protein HMG-17	HMG14_17	4	5
+P68431	H3	P45973	HUMAN Chromobox protein homolog 5	CD_HP1alpha_Cbx5	4	5
+P68431	H3	P05204	HUMAN Non-histone chromosomal protein HMG-17	HMG14_17	9	10
+P68431	H3	Q68DD2;Q68DD2-2;Q68DD2-3	HUMAN Cytosolic phospholipase A2 zeta	cPLA2_Grp-IVB-IVD-IVE-IVF	14	15
+P68431	H3	Q92576;Q92576-2	HUMAN PHD finger protein 3	TFS2M	14	15
+P68431	H3	Q9UKX7;Q9UKX7-2	HUMAN Nuclear pore complex protein Nup50	RanBD_NUP50	14	15
+P68431	H3	P05204	HUMAN Non-histone chromosomal protein HMG-17	HMG14_17	18	19
+P68431	H3	P05204	HUMAN Non-histone chromosomal protein HMG-17	HMG14_17	23	24
+P68431	H3	O14727;O14727-2;O14727-3;O14727-4;O14727-5	HUMAN Apoptotic protease-activating factor 1	WD40	27	28
+P68431	H3	P05204	HUMAN Non-histone chromosomal protein HMG-17	HMG14_17	27	28
+P68431	H3	P11388;P11388-2;P11388-3;P11388-4	HUMAN DNA topoisomerase 2-alpha	PTZ00108	79	81
+P68431	H3	P62826	HUMAN GTP-binding nuclear protein Ran	RAN	79	81
+P68431	H3	Q68DE3	HUMAN Basic helix-loop-helix domain-containing protein USF3	HLH	79	81
+Q02539	H1	P05204	HUMAN Non-histone chromosomal protein HMG-17	HMG14_17	25	29
+Q02539	H1	Q68DD2;Q68DD2-2;Q68DD2-3	HUMAN Cytosolic phospholipase A2 zeta	cPLA2_Grp-IVB-IVD-IVE-IVF	87	103
+Q02539	H1	P35499	HUMAN Sodium channel protein type 4 subunit alpha	Ion_trans	112	130
+Q02539	H1	P35499	HUMAN Sodium channel protein type 4 subunit alpha	Na_channel_gate	112	130
+Q02539	H1	O75912	HUMAN Diacylglycerol kinase iota	ANKYR	119	147
+Q02539	H1	P35499	HUMAN Sodium channel protein type 4 subunit alpha	Ion_trans	119	147
+Q02539	H1	P35499	HUMAN Sodium channel protein type 4 subunit alpha	Na_channel_gate	119	147
+Q02539	H1	O75912	HUMAN Diacylglycerol kinase iota	ANKYR	124	152
+Q02539	H1	Q9NQZ2	HUMAN Something about silencing protein 10	Sas10	200	287
+Q8IZA3	H1	P35268	HUMAN 60S ribosomal protein L22	Ribosomal_L22e	284	287
